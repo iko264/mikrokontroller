@@ -8,9 +8,10 @@
 
 ---
 
-## 🎬 Demonstrasi Simulasi
+## Simulasi
 
-*[Letakkan file GIF animasi simulasi Tinkercad Anda di sini. Contoh sintaks: `![Demo](link-gambar.gif)`]*
+<img width="633" height="542" alt="tugas 4" src="https://github.com/user-attachments/assets/4b4bc9a8-ce44-40f5-8197-6a917a58a2d0" />
+
 
 ## ⚙️ Arsitektur Sistem & Fitur Utama
 
